@@ -7,3 +7,6 @@ STEPS TAKEN:
 -Visualizations of insights.
 -Model selection, training and validation (Prediction by Decision Tree Regressor and Random forest Regressor)
 -An assessment and performance comparison of both models
+
+
+Challenges faced include deciding the threshold to use for categorizing transaction amount. $10,000 was eventually adopted being the IRF standard for reporting transactions by financial institutions 

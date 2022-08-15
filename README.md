@@ -10,3 +10,4 @@ STEPS TAKEN:
 
 
 Challenges faced include deciding the threshold to use for categorizing transaction amount. $10,000 was eventually adopted being the IRF standard for reporting transactions by financial institutions 
+![](Screen-Recording-2022-08-15-at-7.12.13-PM.gif)
